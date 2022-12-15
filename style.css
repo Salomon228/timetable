@@ -1,0 +1,55 @@
+
+body {
+		background-image:url("fon.jpg");
+		color: black;
+		font-size: 1.3em;
+	      }
+   	h1 {
+	 	color: blue;
+		font-size:250%;
+		font-weight:900;
+		font-family:"Comic Sans MS";
+		text-align: center;
+ 		}
+	b {
+		font-size:30pt;
+		font-family: "Comic Sans MS";
+		font-style: normal;
+		}
+	b1 {
+ 		font-size:20pt;
+}
+	img {
+		border-radius: 20px;
+}
+	#intro {
+		font-size: 1.5em;
+    		}
+	.colorful {
+ 		color:blue;
+		}
+
+.gradient-text {
+  font-family: 'Comic Sans MS', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: linear-gradient(45deg,magenta,blue,yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+  margin: 20px auto;
+}
+::-webkit-scrollbar {
+   width: 15px;
+   height: 10px;
+   background-color: #ffb6c1;
+}
+::-webkit-scrollbar-thumb {
+ 	background-color: #4b0082;
+	border-radius:10em;
+	box-shadow: inset 2px 2px 10px #bbbbbb;
+}
+
+
+
